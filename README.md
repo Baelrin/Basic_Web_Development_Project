@@ -1,4 +1,4 @@
-# Basic Web Development Project
+# Basic_Web_Development_Project
 
 This project demonstrates the basics of HTML, CSS, and PHP. It includes a simple HTML page styled with CSS and a PHP script to showcase basic programming concepts.
 
